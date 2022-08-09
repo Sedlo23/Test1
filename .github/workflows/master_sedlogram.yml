@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'SedloGram'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6155F288EA9A4702AC642A6EC40B2A70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7BDD19C924A41C28739F7B37D6E7F30 }}
           package: '*.jar'
